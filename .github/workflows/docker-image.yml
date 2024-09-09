@@ -24,4 +24,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: therickys93/simple-nginx:latest
+        tags: therickys93/simple-nginx:0.1.0
